@@ -1,0 +1,22 @@
+h1 {
+    color: darkblue;
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 2em;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    font: 1em sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: 1.2em;
+    text-align: center;
+}
