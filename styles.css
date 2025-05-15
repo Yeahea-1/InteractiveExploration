@@ -1,23 +1,17 @@
 h1 {
     color: darkblue;
     font-size: 2em;
-    text-align: center;
 }
 
 h2 {
     color: darkblue;
     font-size: 2em;
-    text-align: center;
 }
 
-body {
+* {
     background-color: lightblue;
-    font: 1em sans-serif;
-}
-
-p {
     color: blue;
-    font-size: 1.2em;
+    font: 1.2em sans-serif;
     text-align: center;
 }
 
@@ -25,4 +19,8 @@ iframe {
     width: 480px;
     height: 360px;
     border: 0.5em solid darkblue;
+}
+
+a {
+    text-decoration: none;
 }
