@@ -1,3 +1,10 @@
+* {
+    background-color: lightblue;
+    color: blue;
+    font: 1.2em sans-serif;
+    text-align: center;
+}
+
 h1 {
     color: darkblue;
     font-size: 2em;
@@ -8,24 +15,21 @@ h2 {
     font-size: 2em;
 }
 
-* {
-    background-color: lightblue;
-    color: blue;
-    font: 1.2em sans-serif;
-    text-align: center;
-}
-
 iframe {
     width: 480px;
     height: 360px;
     border: 0.5em solid darkblue;
 }
 
-a {
+a{
     text-decoration: none;
 }
 
 img {
     width: 480px;
     height: auto;
+}
+
+.big {
+    font: 250% sans-serif;
 }
